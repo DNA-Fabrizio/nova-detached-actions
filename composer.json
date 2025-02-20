@@ -1,5 +1,5 @@
 {
-    "name": "datomatic/nova-detached-actions",
+    "name": "giordanoshop/nova-detached-actions",
     "description": "A Laravel Nova tool to allow for placing actions in the Nova toolbar detached from the checkbox selection mechanism.",
     "keywords": [
         "laravel",
@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php": ">=8.0",
-        "laravel/nova": "^4.32.0"
+        "laravel/nova": "^5.0"
     },
     "autoload": {
         "psr-4": {
